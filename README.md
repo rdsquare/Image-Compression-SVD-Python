@@ -5,6 +5,7 @@ Colored image compression using SVD in python with interactive widgets ipynb fil
 For Example:
 
 Real Image file:
+![Alt text](animal2.jpg?raw=true "Title")
 
 Compressed image file:
 
