@@ -10,6 +10,6 @@ Real Image file:
 
 Compressed image file:
 
-
+![Alt text](compressed_animal2.jpg?raw=true "Lion image with compression")
 
 # Developer: Rahul Dangi (rdsquare)
